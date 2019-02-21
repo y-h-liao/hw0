@@ -1,1 +1,5 @@
-# include stdio.h
+# 20190221 資料科學導論
+# 我不知道這樣可不可以成功
+# 但如果我看到了就是成功了吧
+
+print "hello world"
